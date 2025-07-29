@@ -1,0 +1,16 @@
+{
+  "project_name": "xr_eye_tracking_performance_framework",
+  "project_type": "computer_vision",
+  "completion_time": "2025-07-29T23:14:52.014776",
+  "total_tasks": 9,
+  "completed_tasks": 9,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/xr_eye_tracking_performance_framework"
+}
